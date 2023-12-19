@@ -1,5 +1,4 @@
 # Game_box_Website
-Certainly! Here's a sample README file based on the information you provided:
 
 ---
 
@@ -29,6 +28,3 @@ Certainly! Here's a sample README file based on the information you provided:
 - Addition of "Score for each player."
 - New games for competitive gaming.
 - Continuous player competition and leaderboards.
-
-
-Feel free to customize and add more details based on your project's specific needs.
