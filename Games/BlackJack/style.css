@@ -1,0 +1,81 @@
+* {
+    color: white;
+}
+
+body { background-image: radial-gradient( green, black); }
+
+#header{
+    font-size: 2.25rem;
+    text-decoration: 5px solid white underline;
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
+    text-shadow: 1px 0px 20px darkgrey;
+}
+
+.container {
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    width: 75%;
+    justify-content: space-around;
+}
+
+.game {
+    box-shadow: 1px 0px 20px darkgreen;
+    text-align: center;
+    height: 30rem;
+    width:45%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.cardSpace {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.game img {
+    margin: auto;
+    padding: 10px;
+}
+
+.game div {
+    margin: auto;
+    text-align: center;
+}
+
+#row-1, #row-2, #row-3{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+#buttonContainer {
+    margin: 0 autp;
+    padding: auto;
+}
+
+#buttonContainer button{
+        margin:0  10px;
+}
+
+#buttonContainer button:hover {
+    box-shadow: 2px 0px 20px black;
+}
+
+table {
+    width: 40rem;
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid grey;
+}
+table th {
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+}
